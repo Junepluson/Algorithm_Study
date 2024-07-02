@@ -10,7 +10,6 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,aws,git,linux,nextjs,react,c,arduino,figma,figmats&perline=11"/>
 </div>
 <br>
-<br>
 
 ### Statistics
 <div>
