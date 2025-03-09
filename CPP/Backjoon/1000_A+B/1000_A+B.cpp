@@ -3,7 +3,10 @@
 using namespace std;
 
 int main(){
-    int a,b;
-    cin >> a >> b;
-    cout << a+b;
+    char user_input[100];
+    cin >> user_input;
+    cout << user_input;
+
+    return 0;
 }
+
