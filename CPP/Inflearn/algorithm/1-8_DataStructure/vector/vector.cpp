@@ -42,7 +42,7 @@ int main()
     //음수(상관없이 항상) 비교(사용)시 명시적 형변환 (int) 해줘야한다. 왜냐하면 size_t 형식으로 변환되면서 정수가 엄청 커지네
 
 
-    v.clear(); //전체 초기화
+    v.clear(); //전체 초기화dlq
     cout << "nothing now?" << "\n";
     for(int i : v) cout << i << " ";
     cout << "\n";
