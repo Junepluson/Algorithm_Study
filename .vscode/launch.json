@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "C/C++: clang++ 활성 파일 빌드 및 디버그",
+            "name": "C/C++: g++-14 활성 파일 빌드 및 디버그",
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}/${fileBasenameNoExtension}",
@@ -11,7 +11,7 @@
             "environment": [],
             "externalConsole": false,
             "MIMode": "lldb",
-            "preLaunchTask": "C/C++: clang++ 활성 파일 빌드"
+            "preLaunchTask": "C/C++: g++-14 활성 파일 빌드"
         }
     ],
     "version": "2.0.0"
